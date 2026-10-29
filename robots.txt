@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://369method.app/sitemap.xml
